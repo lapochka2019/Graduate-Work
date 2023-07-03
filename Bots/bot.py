@@ -25,7 +25,7 @@ import dataframe_image as dfi
 
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
-TOKEN = "6132474260:AAFB7HnGxSNWvQuqepD8R7Ejl2d1Dc3c1TU"
+TOKEN = ""
 # Выделяем оперативную память под данные о пользователях
 storage = MemoryStorage()
 # подключаемся к чат-боту при помощи токена
